@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "+JlkLGua/txdFBacug9/IH8UAbu+43QpT70W2glIgyk=",
+  "Source": "IntentRecognitionBot",
+  "BasePath": "_content/IntentRecognitionBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IntentRecognitionBot\\wwwroot",
+      "Source": "IntentRecognitionBot",
+      "ContentRoot": "C:\\Users\\adebo\\source\\repos\\IntentRecognitionBot\\IntentRecognitionBot\\wwwroot\\",
+      "BasePath": "_content/IntentRecognitionBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\adebo\\source\\repos\\IntentRecognitionBot\\IntentRecognitionBot\\wwwroot\\default.htm",
+      "SourceId": "IntentRecognitionBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adebo\\source\\repos\\IntentRecognitionBot\\IntentRecognitionBot\\wwwroot\\",
+      "BasePath": "_content/IntentRecognitionBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
